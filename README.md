@@ -21,28 +21,28 @@ Java'nın swing uygulaması ile kullanıcı bilgilerini toplama ve dosyaya kayde
 <h3>GUI ekranı</h3>
 <table>
   <tr>
-    <td><img src="r1.png" width="400"></td>
+    <td><img src="resimler/r1.png" width="400"></td>
   </tr>
 </table>
 
 <h3>Kayıt</h3>
 <table>
   <tr>
-    <td><img src="r2.png" width="400"></td>
+    <td><img src="resimler/r2.png" width="400"></td>
   </tr>
 </table>
 
 <h3>Exception</h3>
 <table>
   <tr>
-    <td><img src="r3.png" width="400"></td>
+    <td><img src="resimler/r3.png" width="400"></td>
   </tr>
 </table>
 
 <h3>Hatalı Kayıt</h3>
 <table>
   <tr>
-    <td><img src="r4.png" width="400"></td>
+    <td><img src="resimler/r4.png" width="400"></td>
   </tr>
 </table>
 
