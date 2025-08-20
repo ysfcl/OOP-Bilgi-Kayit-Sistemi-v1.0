@@ -6,15 +6,15 @@ Projenin sonradan gelişen amacı ise farklı derslerde anlatılan bilgileri har
 Java'nın swing uygulaması ile kullanıcı bilgilerini toplama ve dosyaya kaydetmek temel amaçtır.
 
 ## 🧱Projede Faydalanılan Java Özellikleri
--Javax Swing ve JFrame
--Multithreading
--File Sınıfı ve Dosyalama
--Interfaceler ve özellikleri
--Exception Yapısı 
--Inheritance ve Encapsulation (OOP)
--String ve StringBuilder
--Abstract Sınıflar
--Komut satırı argümanları (args)
+-Javax Swing ve JFrame <br/>
+-Multithreading <br/>
+-File Sınıfı ve Dosyalama <br/>
+-Interfaceler ve özellikleri <br/>
+-Exception Yapısı <br/>
+-Inheritance ve Encapsulation (OOP) <br/>
+-String ve StringBuilder <br/>
+-Abstract Sınıflar <br/>
+-Komut satırı argümanları (args) <br/>
 -Cloneable interface
 
 ## Ekran Görüntüsü
