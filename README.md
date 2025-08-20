@@ -1,6 +1,6 @@
-﻿# 💻OOP-Bilgi Kayıt Sistemi v1.0
-Bu proje, BLM-121 Nesneye Yönelik Programlama dersi içeriğinde bulunan konuları tekrar etme ve proje alıştırması olması amacıyla yapılmıştır.  
-Projenin bir diğer amacı ise farklı derslerde anlatılan bilgileri harmanlayarak ortaya daha komplike ama daha kullanışlı bir proje çıkararak bu derslerdeki becerilerin geliştirilmesidir.
+﻿# 💻Quenera v1.0
+Quenera, BLM-121 Nesneye Yönelik Programlama dersi içeriğinde bulunan konuları tekrar etme ve proje alıştırması olması amacıyla yapılmaya başlanmıştır.  
+Projenin sonradan gelişen amacı ise farklı derslerde anlatılan bilgileri harmanlayarak ortaya daha komplike ama daha kullanışlı bir proje çıkararak bu derslerdeki becerilerin geliştirilmesi ve gerçek hayatta kullanılan bilgi sistemlerine benzer bir app ortaya çıkarılmasıdır.
 
 ## Proje Konusu
 Java'nın swing uygulaması ile kullanıcı bilgilerini toplama ve dosyaya kaydetmek temel amaçtır.
@@ -54,6 +54,8 @@ Java'nın swing uygulaması ile kullanıcı bilgilerini toplama ve dosyaya kayde
 ## Gelecek Sürümler ve Eklenecekler
 - **v1.1:** Dosya yolu ve GUI optimizasyonu
 - **v2.0:** Veritabanı entegrasyonu ve işlenebilir kayıt yönetimi
+- **v3.0:** İnternetten veri girişi entegrasyonu ve lokal girişler ile senkronizasyonu
+- **v4.0:** Java altyapısı korunarak ASP.NET ile backend entegrasyonu ve projenin daha profesyonel bir yapıya bürünmesi
 
 ## Düzeltilmesi Gerekenler
 1. Exception yapısı devreye girdiğinde kayıt işlemi yapılmamalı.
