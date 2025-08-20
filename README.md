@@ -1,4 +1,4 @@
-﻿# 💻Quenera v1.0
+﻿# 💻 Quenera v1.0
 Quenera, BLM-121 Nesneye Yönelik Programlama dersi içeriğinde bulunan konuları tekrar etme ve proje alıştırması olması amacıyla yapılmaya başlanmıştır.  
 Projenin sonradan gelişen amacı ise farklı derslerde anlatılan bilgileri harmanlayarak ortaya daha komplike ama daha kullanışlı bir proje çıkararak bu derslerdeki becerilerin geliştirilmesi ve gerçek hayatta kullanılan bilgi sistemlerine benzer bir app ortaya çıkarılmasıdır.
 
@@ -47,7 +47,7 @@ Java'nın swing uygulaması ile kullanıcı bilgilerini toplama ve dosyaya kayde
 </table>
 
 ## Kurulum
-1. Projeyi klonlayın: `git clone https://github.com/kullaniciAdi/projeAdi.git`
+1. Projeyi klonlayın: `ysfcl/Quenera.git`
 2. Java 8 veya üzeri kurulu olduğundan emin olun.
 3. IDE veya terminal üzerinden `Test.java` dosyasını çalıştırın.
 
