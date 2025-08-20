@@ -47,7 +47,7 @@ Java'nın swing uygulaması ile kullanıcı bilgilerini toplama ve dosyaya kayde
 </table>
 
 ## Kurulum
-1. Projeyi klonlayın: git clone https://github.com/ysfcl/Quenera.git
+1. Projeyi klonlayın: git clone https://github.com/ysfcl/Quenera-v1.0.git
 2. Java 8 veya üzeri kurulu olduğundan emin olun.
 3. IDE veya terminal üzerinden `Test.java` dosyasını çalıştırın.
 
